@@ -36,48 +36,18 @@ export const LINKS = [
 export const EXTRA_LINKS = {
   linkedin: "https://www.linkedin.com/in/dr-nirmala-c-r-71b38824/",
   github: "https://github.com/sanidhyy",
-  resume: "/resume.pdf",
-  source_code: "https://github.com/vchaitanyachowdari/portfolio-new",
+  resume: "https://resume.nesarn.in/",
+  source_code: "https://github.com/teamvcaicreator/nesarn-portfolio",
   email: "sanidhya.verma12345@gmail.com",
 } as const;
 
 // Data for work experience
 export const EXPERIENCES_DATA = [
   {
-    title: "Bapuji Institute of Engineering & Technology",
-    description: "Dean of Placement",
+    title: "Founders Intern @VC AI Creator",
+    description: "Contributed directly to high impact AI projects under the mentorship of the founder, gaining hands-on experience in AI automation, product development, and startup operations at VC AI Creator.",
     icon: React.createElement(LuGraduationCap),
-    date: "2021 - Present",
-  },
-  {
-    title: "Bapuji Institute of Engineering & Technology",
-    description: "Professor and Head of Department Computer Science and Engineering",
-    icon: React.createElement(LuGraduationCap),
-    date: "2013 - Present",
-  },
-  {
-    title: "Bapuji Institute of Engineering & Technology",
-    description: "Associate Professor",
-    icon: React.createElement(LuGraduationCap),
-    date: "2012 - 2013",
-  },
-  {
-    title: "Bapuji Institute of Engineering & Technology",
-    description: "Assistant Professor",
-    icon: React.createElement(LuGraduationCap),
-    date: "2007 - 2012",
-  },
-  {
-    title: "Bapuji Institute of Engineering & Technology",
-    description: "Lecture",
-    icon: React.createElement(LuGraduationCap),
-    date: "1995 - 2007",
-  },
-  {
-    title: "Trainee Engineer",
-    description: "Bharat Electronics Limited",
-    icon: React.createElement(LuGraduationCap),
-    date: "1993 - 1994",
+    date: "2025 - Present",
   },
 ] as const;
 
@@ -96,5 +66,5 @@ export const SKILLS_DATA = [
 ] as const;
 
 // Owner name
-export const OWNER_NAME = "Dr. Nirmala C R";
+export const OWNER_NAME = "Nesar N";
 // Add this at the top or where appropriate
