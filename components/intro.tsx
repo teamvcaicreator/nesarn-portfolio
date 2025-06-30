@@ -68,10 +68,10 @@ const Intro = () => {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <b className="font-bold">Hi,I&apos;m Dr. Nirmala C R .</b>{" "}
-        I&apos;m a <b className="font-bold">Teacher</b> with{" "}
-        <b className="font-bold">32+ years</b> of experience. I enjoy teaching{" "}
-        <i className="italic">Students</i>.
+        <b className="font-bold">Hi,I&apos;m Nesar N .</b>{" "}
+        I&apos;m a <b className="font-bold">Web Developer</b> with{" "}
+        <b className="font-bold">0+ years</b> of experience. I enjoy making{" "}
+        <i className="italic">Creative Websites</i>.
       </motion.h1>
 
       <motion.div
