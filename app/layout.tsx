@@ -20,8 +20,8 @@ export const viewport: Viewport = {
 
 // site metadata
 export const metadata: Metadata = {
-  title: `Dr. Nirmala C R | Personal Portfolio`,
-  description: `Dr. Nirmala C R is Dean, Placement at Bapuji Institute of Engineering & Technology, DAVANAGERE`,
+  title: `Nesar N | Personal Portfolio`,
+  description: `Nesar N is a Founders Intern @VC AI Creator`,
   authors: {
     name: OWNER_NAME,
     url: EXTRA_LINKS.github,
